@@ -40,6 +40,10 @@ span {
   font-size: 30px;
 }
 
+p {
+  font-size: 20px;
+}
+
 .container > div:nth-of-type(1) {
   grid-column: 1 / 3;
 }
