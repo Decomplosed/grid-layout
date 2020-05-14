@@ -23,3 +23,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.bg1 {
+  background: url('./img/bg1.jpg');
+}
