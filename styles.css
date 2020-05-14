@@ -15,11 +15,11 @@ body {
 .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 150px);
   grid-gap: 10px;
 }
 
 .container > div {
-  height: 210px;
   background-size: cover;
   background-attachment: fixed;
   cursor: pointer;
