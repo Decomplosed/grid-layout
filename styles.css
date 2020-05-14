@@ -29,6 +29,8 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
+
+  transition: all .5s ease-in;
 }
 
 .container > div:hover {
